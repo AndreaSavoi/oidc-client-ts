@@ -3,6 +3,7 @@
 [![Stable Release](https://img.shields.io/npm/v/oidc-client-ts.svg)](https://npm.im/oidc-client-ts)
 [![CI](https://github.com/authts/oidc-client-ts/actions/workflows/ci.yml/badge.svg)](https://github.com/authts/oidc-client-ts/actions/workflows/ci.yml)
 [![Codecov](https://img.shields.io/codecov/c/github/authts/oidc-client-ts)](https://app.codecov.io/gh/authts/oidc-client-ts)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAndreaSavoi%2Foidc-client-ts.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAndreaSavoi%2Foidc-client-ts?ref=badge_shield)
 
 Library to provide OpenID Connect (OIDC) and OAuth2 protocol support for
 client-side, browser-based JavaScript client applications. Also included is
@@ -84,3 +85,6 @@ This project is licensed under the Apache-2.0 license. See the
 [LICENSE](https://github.com/authts/oidc-client-ts/blob/main/LICENSE) file for
 more info.
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAndreaSavoi%2Foidc-client-ts.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAndreaSavoi%2Foidc-client-ts?ref=badge_large)
